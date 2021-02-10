@@ -6,17 +6,10 @@ sections:
     type: section_hero
     title: 'Hi, I''m Tyrone, a film editor based in Auckland, New Zealand'
     content: >+
-      Tyrone has 15+ years of experience as a film production assistant having
-      worked on a part time basis in different capacities on short films,
-      corporate videos, television ads and media related projects for
-      Markettiers4dc, Spear Media, Quintessentially Lifestyle, Keen City
-      Productions, Barclays Bank, BEN TV UK and has also worked independently by
-      creating his own short films from pre-production through to post
-      production.
-
-
-
-
+      Tyrone is a freelance filmmaker in based in Auckland, New Zealand, Tyrone
+      has gained years of experience as a film Production Assistant, having
+      worked in different capacities on short and feature length films,
+      corporate videos, television ads and media related projects.
 
     actions:
       - label: Let's talk
