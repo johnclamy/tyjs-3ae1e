@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Tyrone, a film editor based in Auckland, New Zealand'
+    title: 'Hi, I''m Tyrone Stewart'
     content: >+
       Tyrone is a freelance filmmaker in based in Auckland, New Zealand, Tyrone
       has gained years of experience as a film Production Assistant, having
