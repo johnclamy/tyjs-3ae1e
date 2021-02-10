@@ -5,9 +5,19 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Tyrone, a film editor based in .Auckland, New Zealand'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >+
+      Tyrone has 15+ years of experience as a film production assistant having
+      worked on a part time basis in different capacities on short films,
+      corporate videos, television ads and media related projects for
+      Markettiers4dc, Spear Media, Quintessentially Lifestyle, Keen City
+      Productions, Barclays Bank, BEN TV UK and has also worked independently by
+      creating his own short films from pre-production through to post
+      production.
+
+
+
+
+
     actions:
       - label: Let's talk
         url: /contact
