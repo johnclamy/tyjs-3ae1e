@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Tyrone, a film editor based in .Auckland, New Zealand'
+    title: 'Hi, I''m Tyrone, a film editor based in Auckland, New Zealand'
     content: >+
       Tyrone has 15+ years of experience as a film production assistant having
       worked on a part time basis in different capacities on short films,
