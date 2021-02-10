@@ -5,12 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Tyrone Stewart'
-    content: >+
-      Tyrone is a freelance filmmaker in based in Auckland, New Zealand, Tyrone
-      has gained years of experience as a film Production Assistant, having
-      worked in different capacities on short and feature length films,
-      corporate videos, television ads and media related projects.
-
+    content: >
+      A freelance **film editor** based in Auckland, New Zealand. Previously
+      worked as a film producer/ director in short films and corporate videos,
+      television ads and media related projects.
     actions:
       - label: Let's talk
         url: /contact
