@@ -7,7 +7,7 @@ sections:
     title: 'Hi, I''m Tyrone Stewart'
     content: >
       A freelance **film editor** based in Auckland, New Zealand. Previously
-      worked as a film producer/ director in [short films](https://jemsea.com),
+      worked as a film producer/ director on [short films](https://jemsea.com),
       corporate videos and television ads.
     actions:
       - label: Let's talk
