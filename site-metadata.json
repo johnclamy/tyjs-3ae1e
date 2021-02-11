@@ -1,7 +1,18 @@
 {
-    "description": "A portfolio theme with a blog",
+    "author": "John C Lamy",
+    "description": "A portfolio website for Tyrone James Stewart to show his film editing skills and share his views",
     "color_scheme": "light",
     "accent_color": "pink",
+    "keywords": [
+        "Tyrone",
+        "Stewart",
+        "film editor",
+        "film blogger",
+        "Adobe Premiere",
+        "Adobe Photoshop",
+        "Adobe After Effects",
+        "Adobe Illustrator"
+    ],
     "header": {
         "title": "TYRONE JAMES STEWART",
         "has_nav": true,
