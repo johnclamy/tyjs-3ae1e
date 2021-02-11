@@ -17,36 +17,29 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Recent Work
-    subtitle: An optional subtitle of the section
+    subtitle: From the YOOBEE SCHOOL OF FILM
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: What We Do
-    subtitle: An optional subtitle of the section
+    title: What I Do
+    subtitle: Video editing apps and tools
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Service Title
+      - title: Adobe Premiere Pro
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-      - title: Service Title
+          Used for all my video editing tasks. Like it for producing broadcast-quality and high-definition video. Also rely on it for importing video, audio and graphics as well as creating new edited versions of video which can be exported to other mediums and formats.
+      - title: Adobe Photoshop
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
-      - title: Service Title
+          Enables me to edit and compose raster images in multiple layers. My favourite feature is the plug-ins facility where the app can be expanded to offer new or enhanced features.
+      - title: Adobe After Effects
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
-      - title: Service title
+          The post-production process would not be an enjoyable one without After Effects. It''s my go to tool for digital visual effects and motion graphics. I sometimes use it as a very basic non-linear editor, audio editor, and media transcoder.
+      - title: Adobe Illustrator
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          For my vector artwork, nothing comes close to Illustrator. The latest version has improved color and font handling as well as program settings syncing. Saving documents to the cloud and integration with Behance is a major plus for me too.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
