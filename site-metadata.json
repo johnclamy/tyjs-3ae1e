@@ -50,33 +50,33 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "Tyrone James Stewart. All rights reserved. This is a Jamstack site created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>.",
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/tyrone.j.stewart",
                 "style": "icon",
-                "icon_class": "fa-twitter",
+                "icon_class": "fa-facebook",
                 "new_window": true
             },
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "label": "Imdb",
+                "url": "https://www.imdb.com/name/nm3723511/",
                 "style": "icon",
-                "icon_class": "fa-instagram",
+                "icon_class": "fa-imdb",
                 "new_window": true
             },
             {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
+                "label": "Youtube",
+                "url": "https://www.youtube.com/channel/UC4x2dKiILZWI2JVGS6y1hQA",
                 "style": "icon",
-                "icon_class": "fa-dribbble",
+                "icon_class": "fa-youtube",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/tyrone-james-stewart-2a282930/",
                 "style": "icon",
                 "icon_class": "fa-linkedin",
                 "new_window": true
